@@ -8,7 +8,7 @@
 	<properties>
 	<!-- mysql -->
 	<property name="javax.persistence.jdbc.url" 
-				value="jdbc:mysql://localhost:3306/bdjpasabado2025"/>
+				value="jdbc:mysql://localhost:3306/BDMamaniVilcaT1"/>
 
 	<property name="javax.persistence.jdbc.user" 
 				value="root"/>

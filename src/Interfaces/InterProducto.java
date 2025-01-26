@@ -10,7 +10,7 @@ public interface InterProducto {
 	
 		void RegistrarProducto(TblProducto tblproducto);
 		void ActualizarProducto(TblProducto tblproducto);
-		void EliminarProducto(TblProducto tblprodcuto);
+		void EliminarProducto(TblProducto tblproducto);
 		TblProducto BuscarProducto(TblProducto tblproducto);
 		List<TblProducto> ListadoProductos();
 
